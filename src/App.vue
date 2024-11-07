@@ -152,6 +152,7 @@ export default {
       :image="product.Img"
       :title="product.Title" 
       :quantity="product.Quantity" />
+      <CategoryComponent v-for="category in categories" :key="category" :name="category.name" />
 
     </div>
     <div class="Promotion_container">

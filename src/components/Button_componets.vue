@@ -48,7 +48,7 @@ export default {
     cursor: pointer;
 }
 .Btn:hover{
-    background-color: #FDC040;
+    background-color: #eeb130;
 }
 
 .Btn svg {

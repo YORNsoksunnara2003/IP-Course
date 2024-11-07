@@ -1,5 +1,5 @@
 <script>
-import Button_Component from './Button.vue';
+import Button_Component from './Button_componets.vue';
 
 export default {
     name: "Promotion",

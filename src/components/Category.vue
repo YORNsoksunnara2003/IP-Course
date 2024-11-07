@@ -14,6 +14,9 @@ export default {
             type: Number,
           
         },
+        color:{
+            type:String,
+        }
     },
 
 }
