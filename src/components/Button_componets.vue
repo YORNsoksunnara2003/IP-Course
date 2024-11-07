@@ -10,6 +10,7 @@ export default {
 
 </script>
 
+
 <template>
  
     <button @click="shopNow(promotion)" class="Btn">Shop Now

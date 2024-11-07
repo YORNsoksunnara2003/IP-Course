@@ -14,9 +14,10 @@ export default {
     },
     methods : {
         shopnow(promotion) {
-            alert("let's to shopping" + promotion.content)
+            alert("let's to shopping" + promotion.content);
         }
     },
+
 
 }
 
